@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "trips": [
+    { "id": "first-light", "url": "trips/first-light.attrip" },
+    { "id": "night-drift", "url": "trips/night-drift.attrip" },
+    { "id": "deep-calm", "url": "trips/deep-calm.attrip" }
+  ]
+}
